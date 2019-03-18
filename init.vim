@@ -21,6 +21,8 @@ Plug 'vim-scripts/DfrankUtil'
 Plug 'vim-scripts/vimprj'
 Plug 'vim-scripts/indexer.tar.gz'
 Plug 'jiangmiao/auto-pairs'
+Plug 'ludovicchabant/vim-gutentags'
+
 " UltiSnips
 Plug 'SirVer/ultisnips'
 
